@@ -6,11 +6,11 @@ import org.antlr.v4.runtime.CommonTokenStream;
 import org.antlr.v4.runtime.tree.ParseTree;
 
 public class Main {
-
+    
     public static void main(String[] args) throws Exception {
-
+        
         if (args.length == 0) {
-            args = new String[]{"src/main/mu/test.mu"};
+            args = new String[]{"D:/Gits/ANTLR-toy-compilers/src/simple_expression/src/main/java/mu/test.txt"};
         }
 
         System.out.println("parsing: " + args[0]);

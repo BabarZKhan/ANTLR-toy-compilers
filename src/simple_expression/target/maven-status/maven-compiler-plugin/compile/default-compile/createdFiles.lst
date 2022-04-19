@@ -1,6 +1,6 @@
+MuLexer.tokens
 mu\MuParser$While_statContext.class
 mu\MuVisitor.class
-mu\Main.class
 mu\MuParser$AtomContext.class
 mu\MuParser$NumberAtomContext.class
 mu\MuParser.class
@@ -9,13 +9,13 @@ mu\MuParser$AdditiveExprContext.class
 mu\MuParser$OrExprContext.class
 mu\MuParser$ExprContext.class
 mu\MuBaseVisitor.class
-mu\EvalVisitor.class
 mu\MuParser$AssignmentContext.class
 mu\MuParser$AtomExprContext.class
 mu\MuParser$PowExprContext.class
 mu\MuParser$MultiplicationExprContext.class
 mu\MuParser$BlockContext.class
 mu\MuParser$EqualityExprContext.class
+Mu.tokens
 mu\MuLexer.class
 mu\MuParser$ParseContext.class
 mu\MuParser$If_statContext.class
@@ -26,7 +26,6 @@ mu\MuParser$RelationalExprContext.class
 mu\MuParser$AndExprContext.class
 mu\MuBaseListener.class
 mu\MuParser$BooleanAtomContext.class
-mu\Value.class
 mu\MuParser$IdAtomContext.class
 mu\MuParser$ParExprContext.class
 mu\MuParser$NilAtomContext.class
